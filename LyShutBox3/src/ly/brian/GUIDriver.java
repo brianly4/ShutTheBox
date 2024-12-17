@@ -205,6 +205,7 @@ public class GUIDriver extends Application {
 				}
 				btnRoll.setDisable(false);
 				sum = 0;
+				lblValue.setText("N/A");
 			}
 		});
 
